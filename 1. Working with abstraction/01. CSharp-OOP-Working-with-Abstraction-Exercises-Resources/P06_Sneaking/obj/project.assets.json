@@ -676,23 +676,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
       "projectName": "P06_Sneaking",
-      "projectPath": "D:\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
-      "packagesPath": "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\",
-      "outputPath": "D:\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\obj\\",
+      "projectPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
+      "packagesPath": "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\1. Working with abstraction\\01. CSharp-OOP-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ivaylo Apostolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS VivoBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
