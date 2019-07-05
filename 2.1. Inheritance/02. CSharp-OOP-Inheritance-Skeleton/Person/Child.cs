@@ -9,12 +9,14 @@ namespace Person
         public Child(string name, int age)
             :base(name, age)
         {
-
-        }
-
-        public override string ToString()
-        {
-            return $"Name: {this.Name}, Age: {this.Age}";
-        }
+            if (this.Age <= 15)
+            {
+                this.Age = age;
+            }
+            else
+            {
+                throw new ArgumentException("Children should not be able to have an age more than 15");
+            }
+        }              
     }
 }
