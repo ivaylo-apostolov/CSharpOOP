@@ -1,0 +1,11 @@
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb
