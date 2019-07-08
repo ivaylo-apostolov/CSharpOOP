@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Hotel_Reservation
 {
-    public class PriceCalculator
+    public class PriceCalculator : Stat
     {
         public static decimal CalculatePrice(decimal pricePerDay, int numberOfDays, Season season, Discount discount)
         {

@@ -55,5 +55,10 @@ namespace P02_CarsSalesman
 
             return sb.ToString();
         }
+
+        public virtual void Meth()
+        {
+
+        }
     }
 }

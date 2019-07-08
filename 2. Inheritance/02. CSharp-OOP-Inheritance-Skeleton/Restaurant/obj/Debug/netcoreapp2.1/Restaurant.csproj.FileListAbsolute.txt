@@ -1,0 +1,4 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\2. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\2. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\2. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\2. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs

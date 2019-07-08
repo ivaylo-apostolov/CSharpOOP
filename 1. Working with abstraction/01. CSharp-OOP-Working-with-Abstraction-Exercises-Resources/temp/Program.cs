@@ -8,7 +8,9 @@ namespace temp
         {
             var monday = DayOfWeek.Mon;
 
-            Console.WriteLine(monday);
+            Console.WriteLine((int)monday);
+
+
         
         }
     }
