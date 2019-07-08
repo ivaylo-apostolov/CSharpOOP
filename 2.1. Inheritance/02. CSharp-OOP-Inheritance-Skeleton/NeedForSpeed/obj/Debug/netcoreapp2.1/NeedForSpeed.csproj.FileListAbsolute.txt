@@ -1,0 +1,10 @@
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb

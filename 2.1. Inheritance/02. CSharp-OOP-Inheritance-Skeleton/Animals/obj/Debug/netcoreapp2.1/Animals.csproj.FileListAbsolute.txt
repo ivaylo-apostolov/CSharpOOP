@@ -1,0 +1,10 @@
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\2.1. Inheritance\02. CSharp-OOP-Inheritance-Skeleton\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
