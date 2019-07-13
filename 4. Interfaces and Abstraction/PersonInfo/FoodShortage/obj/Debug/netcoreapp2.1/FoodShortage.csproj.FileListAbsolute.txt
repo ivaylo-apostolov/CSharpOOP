@@ -1,0 +1,11 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.pdb

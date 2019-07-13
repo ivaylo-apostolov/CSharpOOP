@@ -1,0 +1,11 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\4. Interfaces and Abstraction\PersonInfo\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
