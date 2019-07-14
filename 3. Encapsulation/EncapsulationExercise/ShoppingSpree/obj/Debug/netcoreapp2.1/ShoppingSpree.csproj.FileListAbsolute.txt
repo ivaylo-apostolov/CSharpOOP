@@ -1,0 +1,11 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C#OOP\3. Encapsulation\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.pdb
