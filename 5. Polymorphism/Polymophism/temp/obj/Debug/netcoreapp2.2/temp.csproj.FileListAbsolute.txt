@@ -1,0 +1,11 @@
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\bin\Debug\netcoreapp2.2\temp.deps.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\bin\Debug\netcoreapp2.2\temp.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\bin\Debug\netcoreapp2.2\temp.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\bin\Debug\netcoreapp2.2\temp.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\bin\Debug\netcoreapp2.2\temp.pdb
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.csprojAssemblyReference.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.dll
+C:\Users\iapos\Documents\SoftUni\C#OOP\5. Polymorphism\Polymophism\temp\obj\Debug\netcoreapp2.2\temp.pdb

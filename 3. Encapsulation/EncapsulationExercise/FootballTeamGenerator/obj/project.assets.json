@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\": {},
+    "C:\\Users\\iapos\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
       "projectName": "FootballTeamGenerator",
-      "projectPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
-      "packagesPath": "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\obj\\",
+      "projectPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "packagesPath": "C:\\Users\\iapos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\3. Encapsulation\\EncapsulationExercise\\FootballTeamGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS VivoBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iapos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -729,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
