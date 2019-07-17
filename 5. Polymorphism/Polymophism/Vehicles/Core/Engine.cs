@@ -41,6 +41,9 @@ namespace Vehicles.Core
                 string vehicleType = inputCmd[1];
                 double val = double.Parse(inputCmd[2]);
 
+
+                try
+                {
                 if (vehicleType == "Car")
                 {
                     if (command == "Drive")
@@ -63,10 +66,31 @@ namespace Vehicles.Core
                         truck.Refuel(val);
                     }
                 }
+                else if (vehicleType == "Bus")
+                {
+                    if (command == "Drive")
+                    {
+                        Console.WriteLine(bus.DriveFullBus(val));
+                    }
+                    else if (command == "Refuel")
+                    {
+                        bus.Refuel(val);
+                    }
+                    else if (command == "DriveEmpty")
+                    {
+                        Console.WriteLine(bus.Drive(val));
+                    }
+                }
+                }
+                catch (ArgumentException ae)
+                {
+                    Console.WriteLine(ae.Message);
+                }
             }
 
             Console.WriteLine(car.ToString());
             Console.WriteLine(truck.ToString());
+            Console.WriteLine(bus.ToString());
 
         }
 

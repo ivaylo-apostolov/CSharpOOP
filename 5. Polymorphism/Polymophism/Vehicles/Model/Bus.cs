@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Vehicles.Exeptions;
 
 namespace Vehicles.Model
 {
@@ -31,6 +32,29 @@ namespace Vehicles.Model
             }
 
             return $"{GetType().Name} needs refueling";
+        }
+
+        public override void Refuel(double refuelingLiters)
+        {
+            double currentAndAddedFuel = this.FuelQuantity + refuelingLiters;
+
+            if (refuelingLiters <= 0)
+            {
+                throw new ArgumentException(ExeptionMessage.FuelMustBePositiveNumber);
+            }
+            else if (currentAndAddedFuel <= TankCapacity)
+            {
+                this.FuelQuantity += refuelingLiters;
+            }
+            else if (currentAndAddedFuel > TankCapacity)
+            {
+                throw new ArgumentException(String.Format(ExeptionMessage.CannotFitFuelInTheTank, refuelingLiters));
+            }
+        }
+
+        public override string ToString()
+        {
+            return $"Bus: {this.FuelQuantity:f2}";
         }
     }
 }

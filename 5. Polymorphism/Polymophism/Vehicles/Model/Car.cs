@@ -33,17 +33,17 @@ namespace Vehicles.Model
 
             double currentAndAddedFuel = this.FuelQuantity + refuelingLiters;
 
-            if (currentAndAddedFuel <= TankCapacity)
+            if (refuelingLiters <= 0)
+            {
+                throw new ArgumentException(ExeptionMessage.FuelMustBePositiveNumber);
+            }
+            else if (currentAndAddedFuel <= TankCapacity)
             {
                 this.FuelQuantity += refuelingLiters;
             }
             else if (currentAndAddedFuel > TankCapacity)
             {
                 throw new ArgumentException(String.Format(ExeptionMessage.CannotFitFuelInTheTank, refuelingLiters));
-            }
-            else if (refuelingLiters <= 0)
-            {
-                throw new ArgumentException(ExeptionMessage.FuelMustBePositiveNumber);
             }
         }
     }
