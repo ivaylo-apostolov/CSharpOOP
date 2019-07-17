@@ -77,19 +77,7 @@ namespace Vehicles.Model
         }
 
         public virtual void Refuel(double refuelingLiters)
-        {
-            double currentAndAddedFuel = this.FuelQuantity + refuelingLiters;
-
-            if (currentAndAddedFuel <= TankCapacity)
-            {
-                this.FuelQuantity += refuelingLiters * 0.95;
-            }
-            else
-            {
-
-            }
-
-            
+        {            
         }
     }
 }

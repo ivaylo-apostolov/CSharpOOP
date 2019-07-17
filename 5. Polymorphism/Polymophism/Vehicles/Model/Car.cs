@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Vehicles.Exeptions;
 
 namespace Vehicles.Model
 {
@@ -9,8 +10,15 @@ namespace Vehicles.Model
         private const double INCREASE_FUEL_CONSUMPTION = 0.9;
 
         public Car(double fuelQuantity, double fuelConsuption, double tankCapacity)
-        {
-            this.FuelQuantity = fuelQuantity;
+        {            
+            if (this.FuelConsumption <= this.TankCapacity)
+            {
+                this.FuelQuantity = fuelQuantity;
+            }
+            else
+            {
+                this.FuelQuantity = 0;
+            }
             this.FuelConsumption = fuelConsuption + INCREASE_FUEL_CONSUMPTION;
             this.TankCapacity = tankCapacity;
         }
@@ -22,7 +30,21 @@ namespace Vehicles.Model
 
         public override void Refuel(double refuelingLiters)
         {
-            this.FuelQuantity += refuelingLiters;
+
+            double currentAndAddedFuel = this.FuelQuantity + refuelingLiters;
+
+            if (currentAndAddedFuel <= TankCapacity)
+            {
+                this.FuelQuantity += refuelingLiters;
+            }
+            else if (currentAndAddedFuel > TankCapacity)
+            {
+                throw new ArgumentException(String.Format(ExeptionMessage.CannotFitFuelInTheTank, refuelingLiters));
+            }
+            else if (refuelingLiters <= 0)
+            {
+                throw new ArgumentException(ExeptionMessage.FuelMustBePositiveNumber);
+            }
         }
     }
 }

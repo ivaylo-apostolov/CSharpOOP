@@ -8,8 +8,9 @@ namespace Vehicles.Core
 {
     public class Engine
     {
-        Car car;
-        Truck truck;
+        Car car = null;
+        Truck truck = null;
+        Bus bus = null;
 
         public Engine()
         {
@@ -20,8 +21,9 @@ namespace Vehicles.Core
         {
             try
             {
-            car = AddCar();
-            truck = AddTruck();
+                car = AddCar();
+                truck = AddTruck();
+                bus = AddBus();
             }
             catch (ArgumentException ae)
             {
@@ -68,6 +70,20 @@ namespace Vehicles.Core
 
         }
 
+        private Bus AddBus()
+        {
+            var inputBus = Console.ReadLine()
+                            .Split();
+
+            double fuelQuantity = double.Parse(inputBus[1]);
+            double fuelConsumption = double.Parse(inputBus[2]);
+            double tankCapacity = double.Parse(inputBus[3]);
+
+            Bus bus = new Bus(fuelQuantity, fuelConsumption, tankCapacity);
+
+            return bus;
+        }
+
         private Truck AddTruck()
         {
             var inputTruck = Console.ReadLine()
@@ -75,8 +91,9 @@ namespace Vehicles.Core
 
             double fuelQuantity = double.Parse(inputTruck[1]);
             double fuelConsumption = double.Parse(inputTruck[2]);
+            double tankCapacity = double.Parse(inputTruck[3]);
 
-            Truck truck = new Truck(fuelQuantity, fuelConsumption);
+            Truck truck = new Truck(fuelQuantity, fuelConsumption, tankCapacity);
 
             return truck;
         }
@@ -88,8 +105,9 @@ namespace Vehicles.Core
 
             double fuelQuantity = double.Parse(inputCar[1]);
             double fuelConsumption = double.Parse(inputCar[2]);
+            double tankCapacity = double.Parse(inputCar[3]);
 
-            Car car = new Car(fuelQuantity, fuelConsumption);
+            Car car = new Car(fuelQuantity, fuelConsumption, tankCapacity);
 
             return car;
         }
