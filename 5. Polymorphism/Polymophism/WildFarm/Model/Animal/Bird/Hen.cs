@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WildFarm.Model.Food;
 
 namespace WildFarm.Model.Animal.Bird
 {
@@ -15,6 +16,13 @@ namespace WildFarm.Model.Animal.Bird
         public override string ProduceSound()
         {
             return "Cluck";
+        }
+
+        public override void Eating(Animal animal, Food.Food food)
+        {
+            Console.WriteLine(animal.ProduceSound());
+
+
         }
     }
 }

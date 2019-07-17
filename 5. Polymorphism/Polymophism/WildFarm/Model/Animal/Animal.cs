@@ -18,9 +18,7 @@ namespace WildFarm.Model.Animal
 
         public virtual void Eating(Animal animal, Food.Food food)
         {
-            Console.WriteLine(animal.ProduceSound());
-
-            //Implement sound
+                      
         }
     }
 }
