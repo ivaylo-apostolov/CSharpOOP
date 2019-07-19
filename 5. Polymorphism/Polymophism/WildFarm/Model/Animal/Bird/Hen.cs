@@ -18,11 +18,15 @@ namespace WildFarm.Model.Animal.Bird
             return "Cluck";
         }
 
-        public override void Eating(Animal animal, Food.Food food)
+        public override void Eating(Food.Food food)
         {
-            Console.WriteLine(animal.ProduceSound());
+            this.Weight += food.Quantity * 0.35;
+            FooodEaten += food.Quantity;
+        }
 
-
+        public override string ToString()
+        {
+            return $"{this.GetType().Name} [{Name}, {WingSize}, {Weight}, {FooodEaten}]";
         }
     }
 }

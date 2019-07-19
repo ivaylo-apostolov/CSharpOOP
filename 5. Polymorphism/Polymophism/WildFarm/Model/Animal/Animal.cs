@@ -16,9 +16,7 @@ namespace WildFarm.Model.Animal
 
         public abstract string ProduceSound();
 
-        public virtual void Eating(Animal animal, Food.Food food)
-        {
-                      
-        }
+        public abstract void Eating(Food.Food food);
+        
     }
 }
