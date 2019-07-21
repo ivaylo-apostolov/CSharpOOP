@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iapos\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\WildFarm.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\WildFarm.csproj",
       "projectName": "WildFarm",
-      "projectPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\WildFarm.csproj",
-      "packagesPath": "C:\\Users\\iapos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\obj\\",
+      "projectPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\WildFarm.csproj",
+      "packagesPath": "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C#OOP\\5. Polymorphism\\Polymophism\\WildFarm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\iapos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS VivoBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -729,7 +729,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

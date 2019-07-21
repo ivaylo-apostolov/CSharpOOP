@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\iapos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\iapos\\.nuget\\packages",
+      "C:\\Users\\ASUS VivoBook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ASUS VivoBook\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
