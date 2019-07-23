@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "temp", "temp\temp.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{5A225189-A46D-4F03-87E8-DB8F119C2DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{ACF9D7B9-B322-4A43-8208-E6994F355C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WildFarm", "WildFarm\WildFarm.csproj", "{ACF9D7B9-B322-4A43-8208-E6994F355C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{2D36757B-37F3-4CCD-87B3-55F8FA8886F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{ACF9D7B9-B322-4A43-8208-E6994F355C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF9D7B9-B322-4A43-8208-E6994F355C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF9D7B9-B322-4A43-8208-E6994F355C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D36757B-37F3-4CCD-87B3-55F8FA8886F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D36757B-37F3-4CCD-87B3-55F8FA8886F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D36757B-37F3-4CCD-87B3-55F8FA8886F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D36757B-37F3-4CCD-87B3-55F8FA8886F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
