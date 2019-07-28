@@ -41,7 +41,7 @@ namespace AnimalCentre.Entities.Hotel
 
         public void Adopt(string animalName, string owner)
         {
-            IAnimal animal = animals.Where(a => a.Key == animalName).FirstOrDefault();
+            //IAnimal animal = animals.Where(a => a.Key == animalName).FirstOrDefault();
         }
     }
 }
